@@ -1,5 +1,5 @@
 def greet():
-    
-    print ("Hello, GitHub, tis Python!")
+    name = input("enter name: ")
+    print (f"Hello, GitHub, tis Python and {name}!")
 
 greet()
